@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: kscanner
+Version: 0.0.1
+Summary: KScanner is a novel combination of DBSCAN and K-Means clustering that uses automated Epsilon approximation to lower the total amount of iterations needed to identify the correct model parameters
+Home-page: https://github.com/DonutsDuncan/kscanner.git
+Author: Peerapak Adsavakulchai and Duncan Calvert
+Author-email: padsavak@gmail.com, duncanscalvert@gmail.com
+Project-URL: Bug Tracker, https://github.com/DonutsDuncan/kscanner/issues
+Project-URL: repository, https://github.com/DonutsDuncan/kscanner.git
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=42",
+            "pandas",
+            "numpy",
+            "datetime",
+            "matplotlib",
+            "seaborn",
+            "scipy",
+            "statsmodels",
+            "mlxtend",
+            "sklearn"
+            ]
+build-backend = "setuptools.build_meta"

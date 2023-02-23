@@ -1,0 +1,10 @@
+LICENSE
+README
+pyproject.toml
+setup.cfg
+src/kscanner/__init__.py
+src/kscanner/scanners.py
+src/kscanner.egg-info/PKG-INFO
+src/kscanner.egg-info/SOURCES.txt
+src/kscanner.egg-info/dependency_links.txt
+src/kscanner.egg-info/top_level.txt
