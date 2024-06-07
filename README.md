@@ -1,5 +1,5 @@
 #### KScanner
-<u>KScanner</u>: is a novel combination of DBSCAN and K-Means clustering that uses automated Epsilon and MinPts approximation to identify the correct model parameters for DBSCAN. The output of DBSCAN is then fed to K-Means as the value for n_clusters to lower the total amount of iterations to determine appropriate cluster amounts.
+<u>KScanner</u> is a novel combination of DBSCAN and K-Means clustering that uses automated Epsilon and MinPts approximation to identify the correct model parameters for DBSCAN. The output of DBSCAN is then fed to K-Means as the value for n_clusters to lower the total amount of iterations to determine appropriate cluster amounts.
 
 
 #### How to use
